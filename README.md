@@ -1,4 +1,4 @@
-# Deep-Learning-Planar-data-classification-with-one-hidden-layer-
+# Deep Learning Planar data classification with one hidden layer.
 Planar data classification with one hidden layer
 
 In this notebook we will generate red and blue points to form a flower. 
